@@ -12,6 +12,9 @@ Each of the nine holds and Solstheim will offer a themed set of items, including
   - [Animals and Creatures](#animals-and-creatures)
   - [NPC Enemies](#npc-enemies)
   - [Quest Rewards](#quest-rewards)
+- [Quest Changes](#quest-changes)
+  - [Hearthfire Home Attacks](#hearthfire-home-attacks)
+  - [Hearthfire Lumber Purchase.](#hearthfire-lumber-purchase)
 
 # Miscellaneous Changes
 
@@ -77,4 +80,14 @@ Enemies have much less gold and valuables.
 
 ## Quest Rewards
 
-Quest rewards now award you with the best version of a leveled item. For example, if you have become a Nightingale, there is no reason to award you an inferior version of those rewards.
+Quest rewards now award you with the best version of a leveled item. For example, if you have become a Nightingale, there is no reason to award you an inferior version of those rewards. This includes the Soul Cairn keepers dropping their Dragonbone equipment (this would originally only drop if you waited until after level 45 to ever visit it).
+
+# Quest Changes
+
+## Hearthfire Home Attacks
+
+All hearthfire home attacks have been disabled.
+
+## Hearthfire Lumber Purchase.
+
+You no longer need to own a hearthfire home to purchase lumber. This is useful for mod added homes that need lumber.
