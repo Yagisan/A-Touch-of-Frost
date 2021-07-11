@@ -15,6 +15,7 @@ Each of the nine holds and Solstheim will offer a themed set of items, including
 - [Quest Changes](#quest-changes)
   - [Hearthfire Home Attacks](#hearthfire-home-attacks)
   - [Hearthfire Lumber Purchase.](#hearthfire-lumber-purchase)
+  - [Northwind Quarry](#northwind-quarry)
 
 # Miscellaneous Changes
 
@@ -91,3 +92,7 @@ All hearthfire home attacks have been disabled.
 ## Hearthfire Lumber Purchase.
 
 You no longer need to own a hearthfire home to purchase lumber. This is useful for mod added homes that need lumber.
+
+## Northwind Quarry
+
+Northing Quarry is no longer flagged as a location suitable for hunting dragons. This prevents hunt the dragon quests there while the House/Quarry mod is installed.
