@@ -31,6 +31,7 @@
   - [Weapons, Armour, and Clothing](#weapons-armour-and-clothing)
   - [Stand Alone Followers](#stand-alone-followers)
   - [Player Homes](#player-homes)
+- [Economy](#economy)
 
 # Preamble
 
@@ -228,3 +229,13 @@ Updating is like installing. You only have to make sure that you select the same
 ## Player Homes
 
 **[Silverstead (SE)](https://www.nexusmods.com/skyrimspecialedition/mods/2397)** is a large Hearthfire inspired buildable player home/small town with over 280+ build options to choose from. A **[comprehensive patch](patches/AToF_Silverstead/Data/Yagisans_AToF_Silverstead_Patch.md)** has been developed by Yagisan to reflect it's importance to A Touch of Frost as potentially the players main base of operation in Skyrim.
+
+**[Drelas' Cottage](https://www.nexusmods.com/skyrimspecialedition/mods/39829)** can be inherited if the owner has an "unfortunate accident". But is everything as it seems? Interacts with **[Interesting NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/29194)**.
+
+**[Goldenglow Is Yours](https://www.nexusmods.com/skyrimspecialedition/mods/25155)** should you acquire the deed to this property, you'll gain a nice little estate in the rift that produces a monthly income of 1,800 to 2,400 gold per month.
+
+# Economy
+
+**[Trade and Barter](https://www.nexusmods.com/skyrimspecialedition/mods/23081)** introduces many optional factors that can influence the prices you'll get when buying and selling items.
+
+**[C.O.I.N. - Coins of Interesting Natures](https://www.nexusmods.com/skyrimspecialedition/mods/51439)** will add seven new types of coins to your game at varying rarities and placed in locations that are logical. The new coins you find around the world will generally be worth less than a normal gold coin. Upon picking up one of the new coins it will be automatically turned into the coin's value in gold.
