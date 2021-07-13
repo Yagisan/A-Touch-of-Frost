@@ -226,6 +226,12 @@ Updating is like installing. You only have to make sure that you select the same
 
 **[Lucien - Immersive Fully Voiced Male Follower](https://www.nexusmods.com/skyrimspecialedition/mods/20035)** - a very in depth follower. There isn't enough space here to do the description justice, so follow the link and read up about this fantastic NPC. **Do not import this follower into Nether's Follower Framework, or My Home is Your Home - you will break this NPC**.
 
+**[Vilja in Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/6722)** - one of the earliest, if not the earliest fully custom NPCs for Skyrim. Vilja is an independent bard with her own mission. Vilja has some complicated systems given the age of the mod, and the fact that it was developed for the original Skyrim. For full details on how to use these system, follow the link to the mod page. **Do not import this follower into Nether's Follower Framework, or My Home is Your Home - you will break this NPC**.
+
+**[Companions and Followers SE](https://www.nexusmods.com/skyrimspecialedition/mods/719)** adds 12 generic followers to Skyrim. The travel randomly to multiple locations around Skyrim. Even if you don't use them, they make great filler as they travel around. Or use Nether's Follower Framework, or My Home is Your Home and use them to populate a house or town of your choosing.
+
+**[Dorethi - Severin Manor Guard for Skyrim SE](https://www.nexusmods.com/skyrimspecialedition/mods/1266)** adds a female DarkElf spellsword guard to Severin Manor, to function like a "Housecarl" and potential marriage partner.
+
 ## Player Homes
 
 **[Silverstead (SE)](https://www.nexusmods.com/skyrimspecialedition/mods/2397)** is a large Hearthfire inspired buildable player home/small town with over 280+ build options to choose from. A **[comprehensive patch](patches/AToF_Silverstead/Data/Yagisans_AToF_Silverstead_Patch.md)** has been developed by Yagisan to reflect it's importance to A Touch of Frost as potentially the players main base of operation in Skyrim.
