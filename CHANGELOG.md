@@ -21,6 +21,8 @@ These mods have been modified from the upstream version.
 
 ***[Finding Derkeethus](https://www.nexusmods.com/skyrimspecialedition/mods/19550)*** Duplicate FormID repaired via Creation Kit.
 
+***[Dorethi - Severin Manor Guard for Skyrim SE](https://www.nexusmods.com/skyrimspecialedition/mods/1266)*** Mod resaved in the Creation Kit to convert to Skyrim Special Edition Format. Meshes and Textures processed with [Cathedral Assets Optimizer](https://www.nexusmods.com/skyrimspecialedition/mods/23316) to convert to Skyrim Special Edition Format, then cleaned in xedit.
+
 ### Additions <!-- omit in toc -->
 
 ***`Yagisans_AToF_GameSettings.esp`*** created.
