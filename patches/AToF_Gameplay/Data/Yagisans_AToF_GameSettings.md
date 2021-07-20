@@ -63,7 +63,7 @@ Faction changes. The following factions will no longer report any crimes except 
 
 Faction changes. The following factions will no longer report pickpocket, theft, and trespassing crimes:
 
-- Thieves' Guild
+- Thieves Guild
 
 Faction changes. The following factions will no longer report werewolf crimes:
 
