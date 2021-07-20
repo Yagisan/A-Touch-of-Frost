@@ -1,15 +1,15 @@
 # Changelog
 
 - [Changelog](#changelog)
-  - [1.0.0](#100)
+  - [0.1.0](#010)
 
-## 1.0.0
+## 0.1.0
 
 **Released:** `DD MMM YYYY`
 
 ### Info <!-- omit in toc -->
 
-This is the initial release of A Touch of Frost.
+This is a pre-release of A Touch of Frost. It is subject to change, and should not be used for a non-testing playthrough.
 
 ### Modifications <!-- omit in toc -->
 
