@@ -1,9 +1,12 @@
 # A Touch of Frost
 
+![GitHub all releases](https://img.shields.io/github/downloads/Yagisan/A-Touch-of-Frost/total?logo=GitHub&style=for-the-badge)![GitHub issues](https://img.shields.io/github/issues/Yagisan/A-Touch-of-Frost?logo=GitHub&style=for-the-badge)
+
  This is a curated modlist designed for a more engaging, survival focused, Skyrim SE experience. It is expected that players will not add additional mods or otherwise change this modlist.
 
 - [A Touch of Frost](#a-touch-of-frost)
 - [Preamble](#preamble)
+- [Quick Links](#quick-links)
 - [Installation](#installation)
   - [Pre-Installation](#pre-installation)
     - [Installing Microsoft Visual C++ Redistributable Package](#installing-microsoft-visual-c-redistributable-package)
@@ -20,8 +23,7 @@
       - [Problems with Wabbajack](#problems-with-wabbajack)
   - [Post-Installation](#post-installation)
     - [Copy Game Folder Files](#copy-game-folder-files)
-    - [Starting the Game](#starting-the-game)
-    - [Creating your Character](#creating-your-character)
+- [Starting the Game](#starting-the-game)
 - [Updating](#updating)
 - [Noteworthy Mods](#noteworthy-mods)
   - [Survival and Needs](#survival-and-needs)
@@ -31,7 +33,12 @@
   - [Weapons, Armour, and Clothing](#weapons-armour-and-clothing)
   - [Stand Alone Followers](#stand-alone-followers)
   - [Player Homes](#player-homes)
-- [Economy](#economy)
+  - [Economy](#economy)
+- [Creating your Character](#creating-your-character)
+- [In-Game MCM Options](#in-game-mcm-options)
+- [Other Post Installation FAQ](#other-post-installation-faq)
+  - [Removing the Modlist](#removing-the-modlist)
+  - [Contact and Technical Support](#contact-and-technical-support)
 
 # Preamble
 
@@ -42,6 +49,13 @@ To do this a core installation centred around community bugfixes has been establ
 I have created custom patches to smooth out compatibility issues between different mods, and to improve the integration of official Bethesda content into Skyrim SE.
 
 Finally, I have created my own bespoke mods, specifically for A Touch of Frost. It is these custom patches, and supporting bespoke mods that make A Touch of Frost stand apart from similar mod lists.
+
+# Quick Links
+- [Patreon](https://patreon.com/yagisan) contains update posts and provides a way of showing support for the project.
+- [Downloads](https://github.com/Yagisan/A-Touch-of-Frost/releases) for the most recent releases.
+- [Wabbajack](https://github.com/wabbajack-tools/wabbajack/releases) for the tool to install this modlist.
+- [Issues](https://github.com/Yagisan/A-Touch-of-Frost/issues) for technical support with this mod list.
+- [Nexus](https://www.nexusmods.com/skyrimspecialedition/mods/51890) for user to user community support.
 
 # Installation
 
@@ -142,17 +156,9 @@ Wabbajack will not work with a pirated version of the game. If you own the game 
 
 Copy all of the files from the `C:\WJ\AToF\Game Folder Files` directory into your game folder. Do not copy any other files.
 
-### Starting the Game
+# Starting the Game
 
 Head over to the installation folder and locate an executable named `ModOrganizer.exe` and launch it. This will be `C:\WJ\AToF\ModOrganizer.exe` if you have followed the recommended settings. Once it is launched, there will be a dropdown box on the top right and a big run button right next to it. Ensure it is set to SKSE by selecting it in the dropdown box and then hitting the run button. You have to run SKSE through Mod Organizer 2 in order to play A Touch of Frost.
-
-### Creating your Character
-
-After starting a new game, you will start in the Alternate Start - Live Another Life prison cell where you can customise your character, then configure your mods before you actually start playing.
-
-It is **very** important that you wait in this cell, until all the messages in the top left corner have finished. Now would be an excellent time to go make a cup of tea or coffee. Once these messages have finished, press `ESCAPE` and create a manual save before you continue. You can now configure mods via the MCM to your liking, and select your start. I personally prefer the Shoal's Rest Farm start.
-
-At this point a second group of mods will begin initialising, including all installed Creation Club content.
 
 # Updating
 
@@ -240,8 +246,28 @@ Updating is like installing. You only have to make sure that you select the same
 
 **[Goldenglow Is Yours](https://www.nexusmods.com/skyrimspecialedition/mods/25155)** should you acquire the deed to this property, you'll gain a nice little estate in the rift that produces a monthly income of 1,800 to 2,400 gold per month.
 
-# Economy
+## Economy
 
 **[Trade and Barter](https://www.nexusmods.com/skyrimspecialedition/mods/23081)** introduces many optional factors that can influence the prices you'll get when buying and selling items.
 
 **[C.O.I.N. - Coins of Interesting Natures](https://www.nexusmods.com/skyrimspecialedition/mods/51439)** will add seven new types of coins to your game at varying rarities and placed in locations that are logical. The new coins you find around the world will generally be worth less than a normal gold coin. Upon picking up one of the new coins it will be automatically turned into the coin's value in gold.
+
+# Creating your Character
+
+After starting a new game, you will start in the Alternate Start - Live Another Life prison cell where you can customise your character, then configure your mods before you actually start playing.
+
+It is **very** important that you wait in this cell, until all the messages in the top left corner have finished. Now would be an excellent time to go make a cup of tea or coffee. Once these messages have finished, press `ESCAPE` and create a manual save before you continue. You can now configure mods via the MCM to your liking, and select your start. I personally prefer the Shoal's Rest Farm start.
+
+At this point a second group of mods will begin initialising, including all installed Creation Club content.
+
+# In-Game MCM Options
+
+# Other Post Installation FAQ
+
+## Removing the Modlist
+
+Simply delete the installation folder (`C:\WJ\AToF` if you have been following this guide) and that will remove it, but why would you want to?
+
+## Contact and Technical Support
+
+Please check the [Issues](https://github.com/Yagisan/A-Touch-of-Frost/issues) (open **and** closed ones) on GitHub first if you have any problems. The same goes for _Enhancements_ or _Feature/Mod Requests_. If you believe you have found a bug, please file bug report [here](https://github.com/Yagisan/A-Touch-of-Frost/issues) with as much information as possible to replicate the issue. A [user to user only support forum](https://www.nexusmods.com/skyrimspecialedition/mods/51890) is available on Nexus mods. Requests for support on any other platform will be ignored. **DO NOT DM ME ON DISCORD. I WILL NOT PROVIDE SUPPORT FOR YOU IN DMS AND I WILL BLOCK YOU**.
