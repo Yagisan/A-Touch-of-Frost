@@ -111,7 +111,7 @@ After you have done everything above and got a clean Skyrim SE installation read
 3. Set _Antialiasing_ to _TAA_
 4. **Do not** check _Windowed Mode_ and _Borderless_
 
-Start the game and exit once you're in the main menu.
+**Start the game and exit once you're in the main menu.**
 
 #### Creation Club
 
