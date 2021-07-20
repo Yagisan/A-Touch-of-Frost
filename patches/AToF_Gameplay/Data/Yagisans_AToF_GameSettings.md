@@ -81,7 +81,7 @@ Enemies have much less gold and valuables.
 
 ## Quest Rewards
 
-Quest rewards now award you with the best version of a leveled item. For example, if you have become a Nightingale, there is no reason to award you an inferior version of those rewards. This includes the Soul Cairn keepers dropping their Dragonbone equipment (this would originally only drop if you waited until after level 45 to ever visit it).
+Quest rewards now award you with the best version of a levelled item. For example, if you have become a Nightingale, there is no reason to award you an inferior version of those rewards. This includes the Soul Cairn keepers dropping their Dragonbone equipment (this would originally only drop if you waited until after level 45 to ever visit it).
 
 # Quest Changes
 
