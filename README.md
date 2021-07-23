@@ -52,6 +52,7 @@ Finally, I have created my own bespoke mods, specifically for A Touch of Frost. 
 
 # Quick Links
 - [Patreon](https://patreon.com/yagisan) contains update posts and provides a way of showing support for the project.
+- [Ko-fi](https://ko-fi.com/yagisan) contains update posts and provides a way of showing support for the project.
 - [Downloads](https://github.com/Yagisan/A-Touch-of-Frost/releases) for the most recent releases.
 - [Wabbajack](https://github.com/wabbajack-tools/wabbajack/releases) for the tool to install this modlist.
 - [Issues](https://github.com/Yagisan/A-Touch-of-Frost/issues) for technical support with this mod list.
