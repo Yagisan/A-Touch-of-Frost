@@ -2,7 +2,9 @@
 
 ![GitHub all releases](https://img.shields.io/github/downloads/Yagisan/A-Touch-of-Frost/total?logo=GitHub&style=for-the-badge)![GitHub issues](https://img.shields.io/github/issues/Yagisan/A-Touch-of-Frost?logo=GitHub&style=for-the-badge)
 
- This is a curated modlist designed for a more engaging, survival focused, Skyrim SE experience. It is expected that players will not add additional mods or otherwise change this modlist.
+This is a curated modlist designed for a more engaging, survival focused, Skyrim SE experience. It is expected that players will not add additional mods or otherwise change this modlist.
+
+[![patreon](assets/images/become_a_patron_button.png)](https://patreon.com/yagisan) [![ko-fi](assets/images/support_on_kofi_button.png)](https://ko-fi.com/yagisan)
 
 - [A Touch of Frost](#a-touch-of-frost)
 - [Preamble](#preamble)
